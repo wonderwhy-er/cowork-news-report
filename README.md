@@ -6,7 +6,7 @@ A beautiful, modern dark-themed webpage that visually summarizes the latest deve
 
 ## Live Demo
 
-**[View the Live Site](https://wonderwhy.er.github.io/cowork-news-report/)**
+**[View the Live Site](https://wonderwhy-er.github.io/cowork-news-report/)**
 
 ## Features
 
